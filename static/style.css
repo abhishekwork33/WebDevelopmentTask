@@ -6,13 +6,13 @@ body{
 
 
   .topic, .topic1, .topic2, .topic3, .topic4, .topic5 {
-    color: #8F00FF;
+    color: #1a9e8dc0;
     text-align: center;
     font-size: 30px;
   }
 
   .link1{
-    color: #1565c0;
+    color: #8f9494;
   }
 
   form{
@@ -22,7 +22,7 @@ body{
 .container {
     display:grid;
     grid-template-columns: auto auto auto auto ;
-    background-color: #2196F3;
+    background-color: #856161;
     padding: 10px;
 
   }
@@ -54,14 +54,14 @@ body{
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #8f5050;
     border-radius: 4px;
     box-sizing: border-box;
   }
   
   input[type=submit] {
     width: 100%;
-    background-color: #4CAF50;
+    background-color: #3d613e;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -83,7 +83,7 @@ body{
 
   #message {
     height: 100px;
-    color: green;
+    color: rgb(58, 64, 119);
     width:100%;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -93,7 +93,7 @@ body{
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    background-color: #4CAF50;
+    background-color: #03bbe9;
   }
 
  
